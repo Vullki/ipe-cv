@@ -4,8 +4,8 @@ Last updated: May 29, 2026
 
 ## GitHub
 
-- Repository: `DVRK-ORG/ipe-cv`
-- URL: https://github.com/DVRK-ORG/ipe-cv
+- Repository: `Vullki/ipe-cv`
+- URL: https://github.com/Vullki/ipe-cv
 - Default branch: `main`
 
 ## Cloudflare Pages
@@ -14,7 +14,7 @@ Last updated: May 29, 2026
 - Production URL: https://ipe-cv.pages.dev
 - Build command: `npm run build`
 - Output directory: `dist`
-- Source: `DVRK-ORG/ipe-cv`, branch `main`
+- Source: `Vullki/ipe-cv`, branch `main`
 
 ## Custom Domains
 

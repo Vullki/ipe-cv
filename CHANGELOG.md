@@ -8,7 +8,7 @@ IPE is a local-first Chrome Manifest V3 extension that helps users export their 
 
 - Product: Indeed Profile Exporter, short name IPE.
 - Version: `1.0.0`.
-- Repository: `DVRK-ORG/ipe-cv`.
+- Repository: `Vullki/ipe-cv`.
 - Website: `https://ipe-cv.com/`.
 - Privacy policy: `https://ipe-cv.com/privacy/`.
 - Chrome package: `releases/ipe-chrome-v1.0.0.zip`.

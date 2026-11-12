@@ -47,7 +47,7 @@ The IPE website may use Cloudflare Web Analytics to understand aggregated page t
 
 For support or privacy questions, use the project repository at:
 
-https://github.com/DVRK-ORG/ipe-cv
+https://github.com/Vullki/ipe-cv
 
 ## Disclaimer
 
