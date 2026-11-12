@@ -19,7 +19,7 @@ import "../site/site.css";
 type ExportFormat = "HTML" | "JSON" | "PDF";
 
 const chromeStoreUrl = "https://chromewebstore.google.com/detail/indeed-profile-exporter/lkhmkglminhfjhellfidjjfaknekfkbm";
-const githubUrl = "https://github.com/DVRK-ORG/ipe-cv";
+const githubUrl = "https://github.com/Vullki/ipe-cv";
 const externalLinkProps = {
   target: "_blank",
   rel: "noopener noreferrer"

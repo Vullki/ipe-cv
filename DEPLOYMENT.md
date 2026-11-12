@@ -5,7 +5,7 @@
 Create the public repository:
 
 ```text
-DVRK-ORG/ipe-cv
+Vullki/ipe-cv
 ```
 
 Use one repo for:

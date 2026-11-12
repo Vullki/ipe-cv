@@ -12,7 +12,7 @@
   <a href="https://ipe-cv.com"><img src="https://img.shields.io/badge/🌐_Website-ipe--cv.com-2f8dff?style=for-the-badge" alt="Website" /></a>&nbsp;
   <a href="https://ipe-cv.com/privacy"><img src="https://img.shields.io/badge/🔒_Privacy-Policy-00b871?style=for-the-badge" alt="Privacy Policy" /></a>&nbsp;
   <a href="https://chromewebstore.google.com/detail/indeed-profile-exporter/lkhmkglminhfjhellfidjjfaknekfkbm"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285f4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install on Chrome Web Store" /></a>&nbsp;
-  <a href="https://github.com/DVRK-ORG/ipe-cv/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-f5a623?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/Vullki/ipe-cv/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-f5a623?style=for-the-badge" alt="License" /></a>
 </p>
 
 <p align="center">
@@ -200,5 +200,5 @@ IPE is an **independent** tool and is **not** affiliated with, endorsed by, or s
 ---
 
 <p align="center">
-  <sub>Built with 🖤 by <a href="https://github.com/DVRK-ORG">DVRK-ORG</a></sub>
+  <sub>Built with 🖤 by <a href="https://github.com/Vullki">Vullki</a></sub>
 </p>

@@ -78,7 +78,7 @@ function PrivacyPage() {
       </section>
       <footer className="site-footer policy-footer" style={{ flexWrap: "wrap", rowGap: "12px" }}>
         <span>Generated for Indeed Profile Exporter</span>
-        <a href="https://github.com/DVRK-ORG/ipe-cv" {...externalLinkProps}>
+        <a href="https://github.com/Vullki/ipe-cv" {...externalLinkProps}>
           GitHub
         </a>
         <div style={{ flexBasis: "100%", textAlign: "center", fontSize: "11px", opacity: 0.65, marginTop: "8px" }}>
